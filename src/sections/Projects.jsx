@@ -28,7 +28,7 @@ const projects = [
     title: "LUN·E",
     category: "Site internet",
     description:
-      "Page personnelle présentant l'acitivité et les projets encours et réalisés.",
+      "Page personnelle présentant l'activité, les projets en cours et réalisés.",
   },
 
   {
